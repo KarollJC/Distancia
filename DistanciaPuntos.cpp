@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
-
   double X1, X2, Y1, Y2;
+  cout<<"Autor: Anonimo"<<endl;
   double Op1=0, Op2=0, Rai=0;
   cout<<"X1: ";
   cin>>X1;
